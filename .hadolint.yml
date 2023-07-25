@@ -1,4 +1,4 @@
 ---
 
 # ignore pinning versions
-ignored: [DL3014]
+ignored: [DL3008]
