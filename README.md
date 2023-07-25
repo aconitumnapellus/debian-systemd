@@ -2,7 +2,10 @@
 
 Debian systemd container image to test with podman/molecule
 
-To use it, clone the repository and build it using:
+To use it:
+`podman pull ghcr.io/aconitumnapellus/debian-systemd:main`
+
+To build it locally, clone the repository and build it using:
 
 `podman build -t localhost/debian-systemd:bookworm .`
 
